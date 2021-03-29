@@ -1,2 +1,2 @@
-# allstate-claim-severity
-Case study on machine learning problem 
+# Allstae Claims Severity
+Prediction of expected loss to an insurance company on car insurance claimed by a customer.
