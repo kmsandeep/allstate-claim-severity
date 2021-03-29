@@ -1,4 +1,3 @@
-# Allstate claims severity
 
 ## Introduction
 
